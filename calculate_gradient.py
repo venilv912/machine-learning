@@ -1,7 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import math
-
 
 # setting training examples
 x = np.array([1.0, 2.0])
